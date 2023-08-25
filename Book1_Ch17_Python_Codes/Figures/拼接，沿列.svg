@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2023-08-16T19:21:56.135344</dc:date>
+    <dc:date>2023-08-25T13:38:11.164939</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -43,73 +43,73 @@ L 45.9 30.87
 L 45.9 58.77 
 L 18 58.77 
 L 18 30.87 
-" clip-path="url(#p1f539d41c1)" style="fill: #4574b3; stroke: #ffffff; stroke-width: 0.5"/>
+" clip-path="url(#p8eefc2eee0)" style="fill: #4574b3; stroke: #ffffff; stroke-width: 0.5"/>
     <path d="M 45.9 30.87 
 L 73.8 30.87 
 L 73.8 58.77 
 L 45.9 58.77 
 L 45.9 30.87 
-" clip-path="url(#p1f539d41c1)" style="fill: #74add1; stroke: #ffffff; stroke-width: 0.5"/>
+" clip-path="url(#p8eefc2eee0)" style="fill: #74add1; stroke: #ffffff; stroke-width: 0.5"/>
     <path d="M 73.8 30.87 
 L 101.7 30.87 
 L 101.7 58.77 
 L 73.8 58.77 
 L 73.8 30.87 
-" clip-path="url(#p1f539d41c1)" style="fill: #aad8e9; stroke: #ffffff; stroke-width: 0.5"/>
+" clip-path="url(#p8eefc2eee0)" style="fill: #aad8e9; stroke: #ffffff; stroke-width: 0.5"/>
     <path d="M 101.7 30.87 
 L 129.6 30.87 
 L 129.6 58.77 
 L 101.7 58.77 
 L 101.7 30.87 
-" clip-path="url(#p1f539d41c1)" style="fill: #d62f27; stroke: #ffffff; stroke-width: 0.5"/>
+" clip-path="url(#p8eefc2eee0)" style="fill: #d62f27; stroke: #ffffff; stroke-width: 0.5"/>
     <path d="M 18 58.77 
 L 45.9 58.77 
 L 45.9 86.67 
 L 18 86.67 
 L 18 58.77 
-" clip-path="url(#p1f539d41c1)" style="fill: #e0f3f8; stroke: #ffffff; stroke-width: 0.5"/>
+" clip-path="url(#p8eefc2eee0)" style="fill: #e0f3f8; stroke: #ffffff; stroke-width: 0.5"/>
     <path d="M 45.9 58.77 
 L 73.8 58.77 
 L 73.8 86.67 
 L 45.9 86.67 
 L 45.9 58.77 
-" clip-path="url(#p1f539d41c1)" style="fill: #fffebe; stroke: #ffffff; stroke-width: 0.5"/>
+" clip-path="url(#p8eefc2eee0)" style="fill: #fffebe; stroke: #ffffff; stroke-width: 0.5"/>
     <path d="M 73.8 58.77 
 L 101.7 58.77 
 L 101.7 86.67 
 L 73.8 86.67 
 L 73.8 58.77 
-" clip-path="url(#p1f539d41c1)" style="fill: #fee090; stroke: #ffffff; stroke-width: 0.5"/>
+" clip-path="url(#p8eefc2eee0)" style="fill: #fee090; stroke: #ffffff; stroke-width: 0.5"/>
     <path d="M 101.7 58.77 
 L 129.6 58.77 
 L 129.6 86.67 
 L 101.7 86.67 
 L 101.7 58.77 
-" clip-path="url(#p1f539d41c1)" style="fill: #fffebe; stroke: #ffffff; stroke-width: 0.5"/>
+" clip-path="url(#p8eefc2eee0)" style="fill: #fffebe; stroke: #ffffff; stroke-width: 0.5"/>
     <path d="M 18 86.67 
 L 45.9 86.67 
 L 45.9 114.57 
 L 18 114.57 
 L 18 86.67 
-" clip-path="url(#p1f539d41c1)" style="fill: #fdad60; stroke: #ffffff; stroke-width: 0.5"/>
+" clip-path="url(#p8eefc2eee0)" style="fill: #fdad60; stroke: #ffffff; stroke-width: 0.5"/>
     <path d="M 45.9 86.67 
 L 73.8 86.67 
 L 73.8 114.57 
 L 45.9 114.57 
 L 45.9 86.67 
-" clip-path="url(#p1f539d41c1)" style="fill: #f46d43; stroke: #ffffff; stroke-width: 0.5"/>
+" clip-path="url(#p8eefc2eee0)" style="fill: #f46d43; stroke: #ffffff; stroke-width: 0.5"/>
     <path d="M 73.8 86.67 
 L 101.7 86.67 
 L 101.7 114.57 
 L 73.8 114.57 
 L 73.8 86.67 
-" clip-path="url(#p1f539d41c1)" style="fill: #d62f27; stroke: #ffffff; stroke-width: 0.5"/>
+" clip-path="url(#p8eefc2eee0)" style="fill: #d62f27; stroke: #ffffff; stroke-width: 0.5"/>
     <path d="M 101.7 86.67 
 L 129.6 86.67 
 L 129.6 114.57 
 L 101.7 114.57 
 L 101.7 86.67 
-" clip-path="url(#p1f539d41c1)" style="fill: #d62f27; stroke: #ffffff; stroke-width: 0.5"/>
+" clip-path="url(#p8eefc2eee0)" style="fill: #d62f27; stroke: #ffffff; stroke-width: 0.5"/>
    </g>
    <g id="matplotlib.axis_1"/>
    <g id="matplotlib.axis_2"/>
@@ -319,7 +319,7 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="p1f539d41c1">
+  <clipPath id="p8eefc2eee0">
    <rect x="18" y="30.87" width="111.6" height="83.7"/>
   </clipPath>
  </defs>
